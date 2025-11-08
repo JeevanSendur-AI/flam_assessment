@@ -1,5 +1,6 @@
 # flam_assessment
 Assessment done by Jeevan Sendur G for FLAM for the role of Research and development engineer-AI
+# just run python param_fitting_v1.py
 
 Desmos Link: https://www.desmos.com/calculator/vlcjl6hlq5
 
@@ -42,3 +43,4 @@ The Desmos plot matched the Python plot exactly.
 # Conclusion:
 Successfully reverse-engineered the missing parameters.
 Achieved a near-perfect fit with minimal error.
+
