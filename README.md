@@ -9,6 +9,9 @@ Unknown Variables recovered:
 M = 0.029880 ;
 X = 55.013786
 
+Equation in latex: "\left(t*\cos(0.525193)-e^{0.029880\left|t\right|}\cdot\sin(0.3t)\sin(0.525193)+55.013786,\;42+\ t*\sin(0.525193)+e^{0.029880\left|t\right|}\cdot\sin(0.3t)\cos(0.525193)\right)"
+
+
 # Steps Followed
 # 1. Data visualization: 
 Plotted the data given in CSV, but noticed that the line in between subsequent datapoints were not in order
