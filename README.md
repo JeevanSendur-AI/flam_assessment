@@ -1,6 +1,6 @@
 # flam_assessment
 Assessment done by Jeevan Sendur G for FLAM for the role of Research and development engineer-AI
-# just run python param_fitting_v1.py
+# Just Run 'python param_fitting_v1.py'
 
 Desmos Link: https://www.desmos.com/calculator/vlcjl6hlq5
 
